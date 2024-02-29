@@ -44,7 +44,7 @@ We intend to organize events in collaboration as a part of the technical fest of
               </div>
               <div>
                 <img
-                  className="upcoming_event_middle_right_photo upcoming_event_photo object-contain border-2 border-black"
+                  className="upcoming_event_middle_right_photo upcoming_event_photo object-contain  sm:mx-auto"
                   src={comingSoon}
                   alt="event..."
                 ></img>
@@ -84,7 +84,7 @@ We intend to organize events in collaboration as a part of the technical fest of
               </div>
               <div>
                 <img
-                  className="upcoming_event_middle_right_photo upcoming_event_photo object-contain"
+                  className="upcoming_event_middle_right_photo upcoming_event_photo object-contain sm:mx-auto"
                   src={comingSoon}
                   alt="event..."
                 ></img>
