@@ -163,7 +163,7 @@
 }
 
 
-@media (min-width:320px) and (max-width:425px){
+@media (min-width:320px) and (max-width:550px){
     .upcoming_event_frame_top{
         margin-left: -45px;
     }
@@ -234,7 +234,7 @@
     .upcoming_event_middle_left_heading_outer{
         width: 18rem;
         background-color: black;
-        margin: auto;
+        margin: auto;              
         height: 4rem;
         border-radius: 0.5rem;
         margin-top: 2rem;
@@ -256,19 +256,23 @@ line-height: 2.5rem;
     }
     
     .upcoming_event_middle_left_content_outer{
-        width: 80%;
-        height: 24rem;
+        width: 90%;
+        height: auto;
         background-color: black;
         margin: auto;
         margin-top: 1.25rem;
         border-radius: 0.5rem;
+        border: 2px solid red;
     }
     
-    .upcoming_event_middle_left_content{
+    .upcoming_event_middle_left_content{  
         color: white;
-        margin: 0.75rem;
+        /* width: 100%; */
+        /* margin-bottom: 550px; */
         font-size: 1.25rem;
         line-height: 1.75rem;
+        text-align: center;
+        /* border: 2px solid white; */
     }
     
     .upcoming_event_middle_right_outer{

@@ -53,7 +53,7 @@ export const Background_animation = () => {
   return (
     <>
       <div>
-        <canvas id="Matrix" className="relative w-screen h-80"></canvas>
+        <canvas id="Matrix" className="relative w-screen h-96 sm:h-[700px]"></canvas>
       </div>
     </>
   );

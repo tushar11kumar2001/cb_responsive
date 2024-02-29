@@ -39,9 +39,10 @@
   margin-top: 3rem;
 }
 
-@media (min-width:300px) and (max-width:500px){
+@media (min-width:320px) and (max-width:550px){
   .event_h{
     height: fit-content;
+    margin: 0 10px;
   }
   
   .event_title{

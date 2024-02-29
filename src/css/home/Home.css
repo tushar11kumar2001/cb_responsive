@@ -48,7 +48,7 @@
 .home_inner_typewriter{
  
     width: 1000px;
-    /* font-size: 2.5rem; */
+    font-size: 1.7rem;
     line-height: 2.5rem;
     color: rgb(248 113 113);
    display: flex;
@@ -64,30 +64,35 @@
         top: 20%;
         left: 50%;
         transform: translate(-50%,-50%);
+        
     }
     
     .home_outer{
         position: relative;
+      
     }
     
     .home_inner{
         position: absolute;
         width: 35%;
         height: fit-content;
+        
         /* margin-top: 7rem; */
     }
     
     .home_inner_logo{
-        width: 55%;
+        width: 95%;
         margin: auto;
       
     }
     
     .home_inner_content{
         color: white;
-        width: fit-content;
-        margin: auto;
-        font-size: 0.5em;
+        width: 150%;
+       
+         /* margin: auto; */
+         margin:auto;
+        font-size: 0.9em;
         line-height: 1;
         margin-top: 2rem;
     }
@@ -95,7 +100,7 @@
     .home_inner_typewriter{
         
 
-    
+        font-size: 1rem;
         color: rgb(248 113 113);
     
        

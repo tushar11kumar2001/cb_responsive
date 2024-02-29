@@ -75,8 +75,8 @@
     
     .about_svg_outer{
         /* flex-basis: 100%; */
-        margin-left: 17.5px;
-        width: 90%;
+        margin: auto;
+        width: 80%;
         /* margin: auto; */
         margin-top: 1rem;
     }
@@ -88,8 +88,9 @@
     }
     
     .about_content_outer{
-        padding-right:5px;
-        margin-left: 10px;
+        padding-right:15px;
+        /* margin-left: 10px; +*/
+        margin: auto;
     }
     
     .about_content_outer_box{
@@ -97,15 +98,15 @@
         border-radius: 0.75rem;
         height: fit-content;
         width: 90%;
-        margin: 20px;
+        margin: 50px auto;
       
     }
     
     .about_content_inner{
         font-size: 1.25rem;
         line-height: 1.75rem;
-        margin: 1rem;
-   
+        /* margin: 1rem; */
+        letter-spacing:0.5px;
         
     }
 }

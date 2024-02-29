@@ -45,7 +45,7 @@ function App()
           <About />
         </div>
         <div>
-          {/* <Upcoming_event /> */}
+          <Upcoming_event />
         </div>
         <div>
           <Past_event />
@@ -54,12 +54,15 @@ function App()
           <Team />
         </div>
         <div>
-          {/* <Join_us /> */}
+          <Join_us />
         </div>
       </div>
-      {/* <div className="text-4xl bg-red-900 rounded-full py-4 px-6 text-white scrollUp shadow-md" onClick={()=> handleClick()} style={{display: `${isVisible?'inline':'none'}`}}>
-        <i class="fa-solid fa-arrow-up"></i>
-      </div> */}
+      <div className=" text-4xl bg-red-900 rounded-full py-4 px-6 text-white scrollUp shadow-md" onClick={()=> handleClick()} style={{display: `${isVisible?'inline':'none'}`}}>
+        <i className="fa-solid fa-arrow-up"></i>
+      </div>
+      <div className='bg-black text-white h-7 text-center'>
+        Managed by : <span className='text-[red]'> Pranav Gaur and Tushar kumar...</span>
+      </div>
     </>
   );
 }

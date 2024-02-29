@@ -55,14 +55,14 @@ We intend to organize events in collaboration as a part of the technical fest of
             </div>
           </div>
         </div>
-        {/* <div className="upcoming_event_middle_bottom_outer">
+      <div className="upcoming_event_middle_bottom_outer">
           <div className="upcoming_event_corner"></div>
           { <div className="upcoming_event_bottom_button">
             <div href="/"><button>Coming Soon</button></div>
           </div> }
           <div className="upcoming_event_corner"></div>
-        </div> */}
-        {/* <div className="upcoming_event_middle_outer">
+        </div> 
+       <div className="upcoming_event_middle_outer">
           <div className="upcoming_event_middle_left">
             <div className="upcoming_event_middle_left_heading_outer">
               <div className="upcoming_event_middle_left_heading upcoming_events_font">
@@ -101,7 +101,7 @@ We intend to organize events in collaboration as a part of the technical fest of
             <a href="https://unstop.com/hackathons/geek-out-bvest23-bharati-vidyapeeths-college-of-engineering-bvcoe-new-delhi-632554" target="_blank"><button>Register Now</button></a>
           </div>
           <div className="upcoming_event_corner"></div>
-        </div> */}
+        </div> 
         <div className="text-transparent">b</div>
       </div>
     </>
