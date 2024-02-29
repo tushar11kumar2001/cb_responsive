@@ -8,9 +8,9 @@ export const Upcoming_event = () => {
     <>
       <div className="h-fit" id="events">
         <div className="text-transparent">h</div>
-        <div className="upcoming_event_top_outer">
+        <div className="upcoming_event_top_outer ">
           <div className="upcoming_event_corner"></div>
-          <div className="upcoming_event_top_middle_outer">
+          <div className="upcoming_event_top_middle_outer ">
             <div className="upcoming_event_top_middle_content upcoming_events_font">
               UPCOMING EVENT
             </div>
@@ -37,14 +37,14 @@ We intend to organize events in collaboration as a part of the technical fest of
               </div>
             </div>
           </div>
-          <div className="upcoming_event_middle_right_outer">
-            <div className="upcoming_event_middle_right_photo_outer">
+          <div className="upcoming_event_middle_right_outer p-5">
+            <div className="upcoming_event_middle_right_photo_outer w-11/12 ">
               <div className="upcoming_event_frame_top">
                 <Frame_top />
               </div>
               <div>
                 <img
-                  className="upcoming_event_middle_right_photo upcoming_event_photo object-contain"
+                  className="upcoming_event_middle_right_photo upcoming_event_photo object-contain border-2 border-black"
                   src={comingSoon}
                   alt="event..."
                 ></img>
@@ -77,7 +77,7 @@ We intend to organize events in collaboration as a part of the technical fest of
                 Round 2: <br />Reverse Coding: Input and output of the code will be given, the task is to write the approriate code</div>
             </div>
           </div>
-          <div className="upcoming_event_middle_right_outer">
+          <div className="upcoming_event_middle_right_outer p-5">
             <div className="upcoming_event_middle_right_photo_outer">
               <div className="upcoming_event_frame_top">
                 <Frame_top />

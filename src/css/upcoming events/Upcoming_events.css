@@ -166,6 +166,7 @@
 @media (min-width:320px) and (max-width:550px){
     .upcoming_event_frame_top{
         margin-left: -45px;
+        
     }
     
     .upcoming_event_photo{
@@ -202,7 +203,7 @@
     
     .upcoming_event_top_middle_outer{
         width: 65%;
-        height: 4rem;
+      
         background-color: black;
         border-radius: 0.5rem;
     }
@@ -281,12 +282,13 @@ line-height: 2.5rem;
     
     .upcoming_event_middle_right_photo_outer{
         margin: auto;
-        margin-left: 2.75rem;
+        margin-left: 1.5rem;
     }
     
     .upcoming_event_middle_right_photo{
-        width: 20rem;
-        height: 30rem;
+        width: 90%;
+        height: 22rem;
+        
     }
     
     .upcoming_event_middle_bottom_outer{
