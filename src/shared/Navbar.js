@@ -53,7 +53,7 @@ export const Navbar = () => {
               <div className="navbar_right_content cursor-pointer">Team</div>
             </Link>
             <Link
-              to="contact us"
+              to="contact"
               spy={true}
               smooth={true}
               offset={-150}
@@ -97,7 +97,7 @@ export const Navbar = () => {
                   </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     className="menu__item"
                     to="events"
                     spy={true}
@@ -106,10 +106,10 @@ export const Navbar = () => {
                     duration={500}
                   >
                     Events
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     className="menu__item"
                     to="team"
                     spy={true}
@@ -118,19 +118,19 @@ export const Navbar = () => {
                     duration={500}
                   >
                     Team
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     className="menu__item"
-                    to="contact us"
+                    to="contact"
                     spy={true}
                     smooth={true}
                     offset={-150}
                     duration={500}
                   >
                     Contact Us
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>

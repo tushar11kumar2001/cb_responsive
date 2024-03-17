@@ -10,7 +10,7 @@ export const Join_us = () => {
   const images = [teamphoto1, teamphoto2, teamphoto3];
 
   return (
-    <>
+    <div id="contact">
       {" "}
       <div className="">
         {" "}
@@ -89,6 +89,6 @@ export const Join_us = () => {
           Copyright&#169;2023 to Campus Blocks. All rights Reserved
         </p>
       </div>
-    </>
+    </div>
   );
 };
