@@ -1,7 +1,7 @@
 import "../../css/upcoming events/Upcoming_events.css";
 import { Frame_top } from "../../shared/Frame_top";
 import { Frame_bottom } from "../../shared/Frame_bottom";
-import comingSoon from '../../assets/images/comingSoon.jpg'
+import hackathon_banner from '../../assets/images/hackathon_banner.jpg'
 
 export const Upcoming_event = () => {
   return (
@@ -44,8 +44,8 @@ We intend to organize events in collaboration as a part of the technical fest of
               </div>
               <div>
                 <img
-                  className="upcoming_event_middle_right_photo upcoming_event_photo object-contain  sm:mx-auto"
-                  src={comingSoon}
+                  className="upcoming_event_middle_right_photo upcoming_event_photo object-center object-cover  p-2 pl-4 w-[368px] sm:p-0 sm:w-[400px] sm:ml-12"
+                  src={hackathon_banner}
                   alt="event..."
                 ></img>
               </div>
@@ -82,10 +82,10 @@ We intend to organize events in collaboration as a part of the technical fest of
               <div className="upcoming_event_frame_top">
                 <Frame_top />
               </div>
-              <div>
+              <div className=" ">
                 <img
-                  className="upcoming_event_middle_right_photo upcoming_event_photo object-contain sm:mx-auto"
-                  src={comingSoon}
+                  className="upcoming_event_middle_right_photo upcoming_event_photo object-center object-cover p-2 pl-4 w-[368px] sm:p-0 sm:w-[400px] sm:ml-10"
+                  src={hackathon_banner}
                   alt="event..."
                 ></img>
               </div>

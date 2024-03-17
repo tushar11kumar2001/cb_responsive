@@ -133,7 +133,9 @@
 }
 
 .upcoming_event_middle_right_photo{
-    width: 24rem;
+    /* width: 23rem; */
+    /* height: 500px; */
+    /* border: 5px solid red; */
 }
 
 .upcoming_event_middle_bottom_outer{
