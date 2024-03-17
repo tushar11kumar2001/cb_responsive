@@ -44,7 +44,7 @@ We intend to organize events in collaboration as a part of the technical fest of
               </div>
               <div className="">
                 <img
-                  className="upcoming_event_middle_right_photo upcoming_event_photo object-center object-cover border-4 border-yellow-500 p-2 pl-4 w-1/2 rounded-lg sm:p-0 sm:w-[400px] sm:ml-12 "
+                  className="upcoming_event_middle_right_photo upcoming_event_photo object-center object-cover  p-2 pl-4  rounded-lg sm:p-0 sm:w-[400px] sm:ml-12 "
                   src={hackathon_banner}
                   alt="event..."
                 ></img>
@@ -84,7 +84,7 @@ We intend to organize events in collaboration as a part of the technical fest of
               </div>
               <div className=" ">
                 <img
-                  className="upcoming_event_middle_right_photo upcoming_event_photo object-center object-cover p-2 pl-4 rounded-lg sm:p-0 sm:w-[400px] sm:ml-10"
+                  className="upcoming_event_middle_right_photo upcoming_event_photo object-center object-cover p-2 pl-4 border-4 border-green-800 rounded-lg sm:p-0 sm:w-[400px] sm:ml-10"
                   src={hackathon_banner}
                   alt="event..."
                 ></img>
