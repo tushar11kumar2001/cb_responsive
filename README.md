@@ -3,5 +3,5 @@
    - My role involves curating and disseminating updates on upcoming events, hackathons, and other pertinent information to our members. Additionally, I actively manage and implement any necessary changes to the website.
 
 ##  Managed by :
-   - Pranav Gaur
+   - Pranav Gaur (https://www.linkedin.com/in/pranav-gaur-3260a1141?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
    - Tushar kumar (https://www.linkedin.com/in/tushar-kumar-b164a9256/)
