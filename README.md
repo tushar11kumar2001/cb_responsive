@@ -9,7 +9,7 @@
 For a live demo, visit https://campusblock.vercel.app
 
 ## Getting Started:
-   - Clone the repository: git clone https://github.com/your-username/campusblock.git
+   - Clone the repository: git clone https://github.com/tushar11kumar2001/cb_responsive.git
    - Install dependencies: npm install
    - Start the development server: npm start
 
